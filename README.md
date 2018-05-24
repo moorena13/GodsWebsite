@@ -1,1 +1,2 @@
-# GodsWebsite
+# Gods Website
+My first foray into the realm of web design, this simple website utilizes HTML, CSS, and PHP to display data from an SQL database of Greek and Roman gods. Similar pages featuring only minute changes were created through the included Python scripts. Were I to write such code today, I would instead use JavaScript to hide or display necessary elements rather than create so many unique pages. Written in the spring of 2016. 
